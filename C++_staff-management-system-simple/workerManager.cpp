@@ -191,7 +191,7 @@ void workerManager::save()
 	}
 	//╧ь╠унд╪Ч
 	ofs.close();
-	system("python D:\\Programming\\C++\\staff-management-txt\\toExcel.py");
+	system("python C:\\[absolute address]\\toExcel.py");
 }
 
 int workerManager::get_EmpNum()
